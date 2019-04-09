@@ -8,4 +8,4 @@
 
 
 
-<h1><?=$_SERVER['QUERY_STRING']?></h1>
+<h1><?=$_SERVER['REQUEST_URI']?></h1>
