@@ -1,5 +1,3 @@
 <?php
 
-  echo "<h1>hi there</h1>";
-  
-  
+  echo "<h1>Hi There</h1>";
