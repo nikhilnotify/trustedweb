@@ -1,0 +1,14 @@
+[
+    {
+       "relation":[
+          "delegate_permission/common.handle_all_urls"
+       ],
+       "target":{
+          "namespace":"web",
+          "package_name":"com.notifyvisitors.twa",
+          "sha256_cert_fingerprints":[
+             "E1:98:D9:E0:8A:A7:4D:05:8B:31:1B:0A:5E:18:61:6C:F3:5D:18:7F:9E:85:EB:D5:FB:07:99:A5:04:08:5A:94"
+          ]
+       }
+    }
+ ]
