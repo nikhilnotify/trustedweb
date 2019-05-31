@@ -13,5 +13,5 @@ var _nvClientConfig = {
 
 importScripts('https://cdnp.notifyvisitors.com/js/brand_hosted/amp-push-worker.js');
 importScripts('https://cdnp.notifyvisitors.com/js/brand_hosted/push-worker.js');
-importScripts('https://s3.amazonaws.com/notifypush/cache_worker/config-1431.js');
+importScripts('https://s3.amazonaws.com/dev-notifypush/cache_worker/config-1431.js');
 importScripts('https://cdnp.notifyvisitors.com/js/brand_hosted/cache-worker.js');
